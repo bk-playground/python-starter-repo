@@ -9,7 +9,7 @@ packages = ["starter_repo"]
 name = "starter-repo"
 version = "0.1.0"
 authors = [
-    { name="Graham Neubig", email="neubig@gmail.com" },
+    { name="Mark Wolfe", email="mark@wolfe.id.au" },
 ]
 description = "A starter repository demonstrating Python best practices"
 readme = "README.md"
